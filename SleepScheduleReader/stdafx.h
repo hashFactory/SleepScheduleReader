@@ -14,7 +14,8 @@
 #include <fstream>
 #include <vector>
 #include <array>
-#include <experimental\filesystem>
+#include <algorithm>
+#include <experimental/filesystem>
 
 
 // TODO: reference additional headers your program requires here
