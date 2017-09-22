@@ -9,7 +9,12 @@
 
 #include <stdio.h>
 #include <tchar.h>
-
+#include <iostream>
+#include <string>
+#include <fstream>
+#include <vector>
+#include <array>
+#include <experimental\filesystem>
 
 
 // TODO: reference additional headers your program requires here

@@ -33,4 +33,7 @@
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Downloads\sleep_schedule.csv" />
+  </ItemGroup>
 </Project>
